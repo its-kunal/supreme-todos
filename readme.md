@@ -2,5 +2,9 @@
 ## About
 This is a basic todos application using django web framework
 
+___
+### Apps
+- Todo
+
 ## Contribute
 Open for Contribution, Pleas open issues for major changes.
